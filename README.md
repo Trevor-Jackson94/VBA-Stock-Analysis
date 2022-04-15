@@ -1,6 +1,6 @@
-#Stock Analysis Refactoring Report
+# Stock Analysis Refactoring Report
 
-##Overview
+## Overview
 For this analysis we created code and refactored that code for Steve to be able to quickly analyze the *Total Daily Volume* and *Return* for a variety of stock data and their tickers. We accomplished this by creating a macro to run in Microsoft Excel using Visual Basic for Applications coding language. Steve needed a larger group of stocks to analyze to give his parents a better investment than their original stock of choice. This data set can be updated easily and can be viewed on a yearly basis as well.
 
 ## Results 
